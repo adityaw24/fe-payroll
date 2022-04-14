@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee69c520.css",
+    "main.js": "/static/js/main.ade75379.js",
+    "static/media/logo-img.svg": "/static/media/logo-img.08f22d78f8ab746be011e56d55ccb8e0.svg",
+    "static/media/prosigmaka-transparan-scaled.png": "/static/media/prosigmaka-transparan-scaled.2c462cc6e09b603dadf6.png",
+    "static/media/hero-img.svg": "/static/media/hero-img.c932fc07e77b47e13ebd77c9962a3a27.svg",
+    "static/media/bg-login-hero.svg": "/static/media/bg-login-hero.346b9c2e1d0328f190b9f9b014536a41.svg",
+    "index.html": "/index.html",
+    "main.ee69c520.css.map": "/static/css/main.ee69c520.css.map",
+    "main.ade75379.js.map": "/static/js/main.ade75379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee69c520.css",
+    "static/js/main.ade75379.js"
+  ]
+}
